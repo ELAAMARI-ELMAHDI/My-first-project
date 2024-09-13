@@ -39,7 +39,7 @@
     color: aliceblue;
 }
 .home{
-    height: 100vh;background-image: url(./images/home.jpeg);background-position: center;background-size: cover;position: relative;
+    height: 100vh;background-image: url(home.jpeg);background-position: center;background-size: cover;position: relative;
 
    
 }
